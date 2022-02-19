@@ -27,6 +27,9 @@ body {
 .img {
     width: 820px;
     height: auto;
+    border: solid;
+    border-width: 2px;
+    border-color: black;
 }
 
 button {
