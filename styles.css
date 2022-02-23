@@ -1,5 +1,7 @@
 body {
     background-color: rgb(245, 71, 71);
+    padding-right: 40px;
+    padding-left: 40px;
 }
 
 .h1 {
@@ -7,6 +9,7 @@ body {
     color: rgb(0, 0, 0);
     font-family: 'Creepster';
     line-height: 120%;
+    margin-bottom: -16px;
 }
 
 .h3 {
